@@ -73,7 +73,7 @@
  &kp F1    &kp F2    &kp F3     &kp F4       &kp F5  &kp F6                        &tog 2                                                                                  &mo 4  &kp F7  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12
  &trans    &tog 0    &kp UP     &trans  &key_repeat  &trans               &kp PRINTSCREEN                                                                                  &none  &trans  &trans  &trans   &trans   &trans   &trans
  &trans  &kp LEFT  &kp DOWN  &kp RIGHT       &trans  &trans            &macro_macro_ctrln     &trans      &kp RALT                                &trans   &trans          &none  &trans  &trans  &trans   &trans   &trans   &trans
- &trans    &trans    &trans     &tog 4       &trans  &trans                                           &kp C_VOL_UP                  &kp C_BRIGHTNESS_INC                          &trans  &trans  &trans   &trans   &trans   &trans
+ &trans    &trans    &trans     &tog 1       &trans  &trans                                           &kp C_VOL_UP                  &kp C_BRIGHTNESS_INC                          &trans  &trans  &trans   &trans   &trans   &trans
  &trans    &trans  &kp CAPS     &trans       &trans                             &kp SPACE  &kp ENTER  &kp C_VOL_DN                  &kp C_BRIGHTNESS_DEC  &kp DEL  &kp BACKSPACE          &trans  &trans   &trans   &trans   &trans
             >;
         };
